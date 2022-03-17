@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kinfe123.github.io/csb-8w8ddd/static/css/main.df13477b.chunk.css",
+    "main.js": "https://kinfe123.github.io/csb-8w8ddd/static/js/main.b33e22c9.chunk.js",
+    "main.js.map": "https://kinfe123.github.io/csb-8w8ddd/static/js/main.b33e22c9.chunk.js.map",
+    "runtime-main.js": "https://kinfe123.github.io/csb-8w8ddd/static/js/runtime-main.569a8ce6.js",
+    "runtime-main.js.map": "https://kinfe123.github.io/csb-8w8ddd/static/js/runtime-main.569a8ce6.js.map",
+    "static/js/2.f401abd6.chunk.js": "https://kinfe123.github.io/csb-8w8ddd/static/js/2.f401abd6.chunk.js",
+    "static/js/2.f401abd6.chunk.js.map": "https://kinfe123.github.io/csb-8w8ddd/static/js/2.f401abd6.chunk.js.map",
+    "index.html": "https://kinfe123.github.io/csb-8w8ddd/index.html",
+    "static/css/main.df13477b.chunk.css.map": "https://kinfe123.github.io/csb-8w8ddd/static/css/main.df13477b.chunk.css.map",
+    "static/js/2.f401abd6.chunk.js.LICENSE.txt": "https://kinfe123.github.io/csb-8w8ddd/static/js/2.f401abd6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.569a8ce6.js",
+    "static/js/2.f401abd6.chunk.js",
+    "static/css/main.df13477b.chunk.css",
+    "static/js/main.b33e22c9.chunk.js"
+  ]
+}
